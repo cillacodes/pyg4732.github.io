@@ -3,13 +3,13 @@
   height: 15%;
   width: 100%;
   text-align: center;
-  box shadow: 0px 0px 0px;
+  box-shadow: 0px 0px 0px;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
   border-bottom-left-radius: 51px;
-  border-bottom-right-radisu: 51px;
+  border-bottom-right-radius: 51px;
   background-image:
-    linear gradient(90deg, #1EBC92 1%, #41DEBA 58%, #12F4D0 100%); 
+    linear-gradient(90deg, #1EBC92 1%, #41DEBA 58%, #12F4D0 100%); 
     
 }
 
@@ -21,7 +21,7 @@
   border-radius: 3px;
   box-shadow: 0px 0px 0px #E6E6E6;
   background-image:
-    linear gradient(90deg, #E6E6E6 0%, #B2BBBD 53%);
+    linear-gradient(90deg, #E6E6E6 0%, #B2BBBD 53%);
     
 }
 
